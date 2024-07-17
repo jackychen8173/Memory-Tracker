@@ -1,6 +1,6 @@
 # Memory Tracker
-## Demo video
-https://media.github.students.cs.ubc.ca/user/16124/files/bf0535c1-59b6-4a7d-a2b5-685c1e0e3577
+## Project Description
+This project was done in a group of five and we created a program analysis tool to track the memory usage of the program.
 
 ## How to setup project
 0) project is using version 21 of java (open sdk) and latest version of maven
